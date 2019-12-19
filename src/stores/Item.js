@@ -12,4 +12,4 @@ export class Item {
 
 }
 
-console.log(Item.name)
+console.log(Item)
